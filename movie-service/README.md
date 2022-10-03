@@ -11,7 +11,7 @@ This is a typical Rest application for movies. 2 GET endpoints are exposed and 1
 
 The app uses an in-memory H2 database. POST a new movie or two before doing GET's. Ex JSON:
 
-    {"title": "Rocky 3", "description":"Best Picture 1982"}
+    {"title": "Rocky", "description":"Best Picture 1976"}
 
 ## Running the application in dev mode
 
